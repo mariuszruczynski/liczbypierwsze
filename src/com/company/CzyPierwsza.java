@@ -5,7 +5,7 @@ import java.util.List;
 
 public class CzyPierwsza {
 private int n;
-
+private int b;
 
     public CzyPierwsza() {
         this.n = n;
